@@ -13,7 +13,9 @@ This repository is maintained by the **Digitalisation Group** from the [CFAA](ht
 ### **Publications**
 **2025**
 - Tapia, E., Sastoque-Pinilla, L., Gamecho, B., & Lopez-Novoa, U. (2025). [Integration of blockchain-based digital identity management in an aeronautical manufacturing setting](https://link.springer.com/article/10.1007/s00170-025-16260-w). The International Journal of Advanced Manufacturing Technology, 1-15.
+- Sáinz de la Maza García, Á., Sastoque-Pinilla, L., & Villarrazo-Rubia, N. (2025). [Measuring thermally induced volumetric error of large-scale machining centre](http://link.springer.com/article/10.1007/s00170-025-16739-6). The International Journal of Advanced Manufacturing Technology, 1-14.
 - Tapia, E., Lopez-Novoa, U., Sastoque-Pinilla, L., & López-de-Lacalle, L. N. (2025). [An Evaluation of Large Language Models for Code Optimization](https://ieeexplore.ieee.org/abstract/document/11091799). In 2025 10th International Conference on Smart and Sustainable Technologies (SpliTech) (pp. 1-5). IEEE.
+- Sáinz de la Maza García, Á., Sastoque Pinilla, L., & López de Lacalle Marcaide, L. N. (2025). [Influence of Structural Components on Thermal Deformations in Large Machine Tools](https://www.mdpi.com/2504-4494/9/8/267). Journal of Manufacturing and Materials Processing, 9(8), 267.
 
 **2024**
 - Tapia, E., Lopez-Novoa, U., Sastoque-Pinilla, L., & López-de-Lacalle, L. N. (2024). [Implementation of a scalable platform for real-time monitoring of machine tools](https://www.sciencedirect.com/science/article/pii/S0166361523002154). Computers in Industry, 155, 104065.
