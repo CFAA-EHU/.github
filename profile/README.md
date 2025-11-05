@@ -20,6 +20,7 @@ This repository is maintained by the **Digitalisation Group** from the [CFAA](ht
 **2024**
 - Tapia, E., Lopez-Novoa, U., Sastoque-Pinilla, L., & López-de-Lacalle, L. N. (2024). [Implementation of a scalable platform for real-time monitoring of machine tools](https://www.sciencedirect.com/science/article/pii/S0166361523002154). Computers in Industry, 155, 104065.
 - Sendino, S., Sastoque-Pinilla, L., del Olmo, A., & de Lacalle, L. N. L. (2024). [Tool Fracture Detection in Electromechanical Broaching Through Machine Sensor](https://www.sciencedirect.com/science/article/pii/S2212827124001823). Procedia CIRP, 122, 994-999.
+- Nieto, G., De la Iglesia, I., Lopez-Novoa, U., & Perfecto, C. (2024). [Deep Reinforcement Learning techniques for dynamic task offloading in the 5G edge-cloud continuum](https://link.springer.com/article/10.1186/s13677-024-00658-0). Journal of Cloud Computing, 13(1), 94.
 
 **2023**
 - Aldekoa, I., del Olmo, A., Sastoque-Pinilla, L., Sendino-Mouliet, S., Lopez-Novoa, U., & de Lacalle, L. N. L. (2023). [Early detection of tool wear in electromechanical broaching machines by monitoring main stroke servomotors](https://www.sciencedirect.com/science/article/pii/S0888327023006817). Mechanical Systems and Signal Processing, 204, 110773.
