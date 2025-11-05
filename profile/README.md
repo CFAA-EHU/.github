@@ -11,6 +11,9 @@ This repository is maintained by the **Digitalisation Group** from the [CFAA](ht
 - Energy efficient computing
 
 ### **Publications**
+**2025**
+- Tapia, E., Sastoque-Pinilla, L., Gamecho, B., & Lopez-Novoa, U. (2025). [Integration of blockchain-based digital identity management in an aeronautical manufacturing setting](https://link.springer.com/article/10.1007/s00170-025-16260-w). The International Journal of Advanced Manufacturing Technology, 1-15.
+
 **2024**
 - Tapia, E., Lopez-Novoa, U., Sastoque-Pinilla, L., & López-de-Lacalle, L. N. (2024). [Implementation of a scalable platform for real-time monitoring of machine tools](https://www.sciencedirect.com/science/article/pii/S0166361523002154). Computers in Industry, 155, 104065.
 - Sendino, S., Sastoque-Pinilla, L., del Olmo, A., & de Lacalle, L. N. L. (2024). [Tool Fracture Detection in Electromechanical Broaching Through Machine Sensor](https://www.sciencedirect.com/science/article/pii/S2212827124001823). Procedia CIRP, 122, 994-999.
