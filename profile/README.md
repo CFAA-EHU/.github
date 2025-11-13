@@ -1,6 +1,6 @@
 ## Digitalisation Group - CFAA.
 
-This repository is maintained by the **Digitalisation Group** from the [CFAA](https://cfaa.eus/en/), a research centre from the [University of the Basque Country](https://www.ehu.eus/en/en-home). Currently, the research group is formed by:
+This repository is maintained by the **Digitalisation Group** of the [CFAA](https://cfaa.eus/en/), a research centre of the [University of the Basque Country](https://www.ehu.eus/en/en-home). Currently, the research group is formed by:
 - [Unai López-Novoa](https://ulopeznovoa.github.io/), Associate Professor of Computer Science.
 - [Leonardo Sastoque-Pinilla](https://www.linkedin.com/in/leonardo-sastoque-pinilla/), doctoral researcher and coordinator of IT and R&D projects.
 - [Endika Tapia-Fernández](https://endikatapia.github.io/), researcher on big-data and data systems management topics.
